@@ -1,6 +1,5 @@
 var io = require('socket.io');
 var debug = require('debug')('ws');
-var stringify = require('json-stringify-safe');
 
 module.exports = function(httpListenner) {
   return WS(httpListenner);
