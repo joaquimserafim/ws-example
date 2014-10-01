@@ -6,4 +6,4 @@ npm install
 
 **debugging:** DEBUG=* node .
 
-**debugging a specific module (ws):** DEBUG=ws node.
+**debugging a specific module (ws):** DEBUG=ws node .
