@@ -1,0 +1,22 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "@joaquimserafim",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.0.0",
+    "hapi": "^6.9.0",
+    "json-stringify-safe": "^5.0.0",
+    "socket.io": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joaquimserafim/ws-example.git"
+  }
+}
