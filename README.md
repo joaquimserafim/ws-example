@@ -1,3 +1,6 @@
+modules: hapi, socket.io, debug
+
+
 git clone
 
 npm install
